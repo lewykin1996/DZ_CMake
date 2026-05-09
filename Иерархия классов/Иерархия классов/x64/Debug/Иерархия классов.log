@@ -1,0 +1,14 @@
+﻿D:\visua\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (class_hierarchies.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  main.cpp
+  EquilateralTriangle.cpp
+  Figure.cpp
+  IsoscelesTriangle.cpp
+  Parallelogram.cpp
+  Quadrangle.cpp
+  Rectangle.cpp
+  Rhombus.cpp
+  RightTriangle.cpp
+  Square.cpp
+  Triangle.cpp
+  Создание кода...
+  Иерархия классов.vcxproj -> D:\Курс разработчик С++\Базовое программирование С++\Иерархия классов\x64\Debug\main.exe

@@ -1,0 +1,3 @@
+C:/Users/Professional/CMakeBuilds/72ab89ee-4aba-f634-bb92-3f6bafefe998/build/x64-Debug (по умолчанию)/CMakeFiles/edit_cache.dir
+C:/Users/Professional/CMakeBuilds/72ab89ee-4aba-f634-bb92-3f6bafefe998/build/x64-Debug (по умолчанию)/CMakeFiles/add_1.dir
+C:/Users/Professional/CMakeBuilds/72ab89ee-4aba-f634-bb92-3f6bafefe998/build/x64-Debug (по умолчанию)/CMakeFiles/rebuild_cache.dir
